@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    margin-top: 2px;
+}
+h3{
+    background-color: brown;
+    color: white;
+    width: 45%;
+    font-size: 1px;
+}
+.about img{
+    background-color: blueviolet;
+    width: 45%;
+    height: 90vh;
+    margin-top: -7px;
+}
